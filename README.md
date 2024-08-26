@@ -1,3 +1,63 @@
+<br />
+
+<div align="center">
+  <img
+    src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"
+    width="750"
+  />
+</div>
+
+<h1 align="center">Hi 👋, I'm Mariam Elgazzar</h1>
+<h3 align="center">Software Engineer | Front-End Developer</h3>
+
+<div align="center">
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=Mariam-Elgazzar.MyReadme&left_color=forestgreen&right_color=blue"
+  />
+</div>
+
+<p>
+  👀 I’m excited about starting my journey in front-end development and eager to
+  learn all about building beautiful and functional websites.
+</p>
+<p>
+  🌱 I’m currently learning the basics of HTML, CSS, and JavaScript, with a
+  focus on mastering foundational concepts.
+</p>
+<p>
+  💼 I’m looking for opportunities to gain experience through internships,
+  entry-level positions, or collaborative projects.
+</p>
+<p>
+  💞️ I’m interested in collaborating on simple projects where I can practice
+  and improve my coding skills.
+</p>
+<p>🛠️ Tech Stack: HTML, CSS, and basic JavaScript (learning React soon!).</p>
+<p>
+  📫 How to reach me: You can reach me via email at mariamelgazzar42@gmail.com.
+</p>
+
+<h3 align="left">Frontend Development:</h3>
+<div align="left">
+  <a href="https://www.w3.org/html/"
+    ><img
+      src="https://skillicons.dev/icons?i=html"
+      height="40"
+      alt="html5 logo"
+  /></a>
+  <a href="https://www.w3schools.com/css/"
+    ><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"
+  /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    ><img
+      src="https://skillicons.dev/icons?i=js"
+      height="40"
+      alt="javascript logo"
+  /></a>
+  <a href="https://www.typescriptlang.org/"
+    ><img
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"
+      height="40"
       alt="ts logo"
   /></a>
   <a href="https://getbootstrap.com"
